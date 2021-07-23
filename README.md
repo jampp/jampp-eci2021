@@ -16,4 +16,4 @@ Acá van a encontrar todo el material necesario para resolver los challenges pro
 
 **¿Querés saber más de todas nuestras actividades?** 🤔
 
-![image](https://user-images.githubusercontent.com/83473101/126781152-4c69352c-7100-4d92-9cff-77c15a3e1877.png)
+![image](https://user-images.githubusercontent.com/83473101/126790599-c4e67c91-ab6c-4705-9640-60ebc54e01e1.png)
