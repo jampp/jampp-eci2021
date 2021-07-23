@@ -7,11 +7,13 @@
 
 ## Materiales 🗂
 
-* **Charlas:**
-Contienen las slides y códigos utilizados en las charlas dadas por Jampp durante la ECI 2021.
-
 * **Challenges:**
 Acá van a encontrar todo el material necesario para resolver los challenges propuestos.
+
+* **Charlas:**
+Contiene las slides y códigos utilizados en las charlas dadas por Jampp durante la ECI 2021.
+
+
 
 
 
