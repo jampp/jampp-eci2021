@@ -19,4 +19,4 @@ Contiene las slides y códigos utilizados en las charlas dadas por Jampp durante
 
 ## **¿Querés saber más de todas nuestras actividades?** 🤔
 
-![image](https://user-images.githubusercontent.com/83473101/126790599-c4e67c91-ab6c-4705-9640-60ebc54e01e1.png)
+![image](https://user-images.githubusercontent.com/83473101/126797498-76b71a0a-35e0-4ec0-b1d1-def7a379108a.png)
