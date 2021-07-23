@@ -1,11 +1,5 @@
 # Charlas ECI 2021 👩‍🏫
 
-## Python de alta performance 🐍🔷 
-
-*Valentín Paz Marcolla*
-
-Charla sobre cómo mejorar la performance de Python sin dejar de escribir Python con Cython.
-
 ## Docker para Big Data 🐳
 
 *Dante Pawlow*
@@ -19,6 +13,12 @@ La charla hace una introducción a qué es Docker y para que sirve, repasando su
 ## Optimización mediante Algoritmos Genéticos 🧬 
 
 *Kevin Speyer*
+
+## Python de alta performance 🐍🔷 
+
+*Valentín Paz Marcolla*
+
+Charla sobre cómo mejorar la performance de Python sin dejar de escribir Python con Cython.
 
 ## The Challenges of working in AdTech 📱
 
