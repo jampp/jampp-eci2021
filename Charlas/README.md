@@ -8,6 +8,10 @@
 
 *Dante Pawlow*
 
+La charla hace una introducción a qué es Docker y para que sirve, repasando su utilidad en el area de Big Data.
+
+Además, cuenta cómo pueden aprovechar esta tecnología para preparar trabajos pråcticos autocontenidos en el ambito académico.
+
 ## Inferencia Causal 📈 
 
 *Jorge Brea*
