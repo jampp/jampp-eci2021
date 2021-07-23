@@ -10,6 +10,10 @@ La charla hace una introducción a qué es Docker y para que sirve, repasando su
 
 *Jorge Brea*
 
+En esta charla se presentan algunas características y particularidades básicas que distinguen las relaciones causales de las correlaciones estadísticas.
+
+Se usa la "paradoja" de Simpson con un ejemplo de juguete en Real Time Bidding (RTB) para ilustrar estas diferencias y como tenerlas en cuenta para tomar mejores decisiones.
+
 ## Optimización mediante Algoritmos Genéticos 🧬 
 
 *Kevin Speyer*
