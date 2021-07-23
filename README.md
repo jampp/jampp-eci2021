@@ -14,6 +14,7 @@ Contienen las slides y códigos utilizados en las charlas dadas por Jampp durant
 Acá van a encontrar todo el material necesario para resolver los challenges propuestos.
 
 
-**¿Querés saber más de todas nuestras actividades?** 🤔
+
+## **¿Querés saber más de todas nuestras actividades?** 🤔
 
 ![image](https://user-images.githubusercontent.com/83473101/126790599-c4e67c91-ab6c-4705-9640-60ebc54e01e1.png)
