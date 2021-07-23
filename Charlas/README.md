@@ -4,6 +4,8 @@
 
 *Valentín Paz Marcolla*
 
+Charla sobre cómo mejorar la performance de Python sin dejar de escribir Python con Cython.
+
 ## Docker para Big Data 🐳
 
 *Dante Pawlow*
