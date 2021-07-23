@@ -1,6 +1,6 @@
 # Charlas ECI 2021 👩‍🏫
 
-## Cython 🐍🔷 
+## Python de alta performance 🐍🔷 
 
 *Valentín Paz Marcolla*
 
