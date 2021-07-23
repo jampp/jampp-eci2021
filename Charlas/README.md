@@ -18,6 +18,8 @@ Se usa la "paradoja" de Simpson con un ejemplo de juguete en Real Time Bidding (
 
 *Kevin Speyer*
 
+Implementación de un algoritmo genético para optimizar el diseño simplificado de una bicicleta.
+
 ## Python de alta performance 🐍🔷 
 
 *Valentín Paz Marcolla*
