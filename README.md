@@ -3,7 +3,7 @@
 
 # ECI 2021 
 
-**Bienvenides al repositorio de Jampp de la ECI edición 2021!**😄
+**Bienvenides al repositorio de Jampp de la ECI edición 2021!** 😄
 
 ## Materiales 🗂
 
