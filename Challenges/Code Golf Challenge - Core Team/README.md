@@ -43,7 +43,7 @@ El mensaje codificado sería: **0 0 00 0000 0 000 00 0000 0 00**
 - Al finalizar la competencia, publicaremos las mejores 3 soluciones.
 - [test_solution.py](https://github.com/jampp/jampp-eci2021/blob/master/Challenges/Code%20Golf%20Challenge%20-%20Core%20Team/test_solution.py) Script para testear la solución y obtener su puntaje.
 - Subir solo el archivo .py
-- Se aceptarán soluciones hasta el **viernes 30/07/2021 as 12hs**.
+- Se aceptarán soluciones hasta el **viernes 30/07/2021 a las 12hs**.
 
 Ejemplo:
 
