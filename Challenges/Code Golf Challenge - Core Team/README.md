@@ -16,7 +16,7 @@ Las reglas de codificación son:
 Primer ejemplo: *C* (**1000011**)
 
 - **0 0** (corresponde al primer **1**)
-- **00 00000** (corresponden a los cuatro **0** consecutivos).
+- **00 0000** (corresponden a los cuatro **0** consecutivos).
 - **0 00** (consiste al último par de **1**s)
 
 El mensaje codificado sería: **0 0 00 0000 0 00**
