@@ -36,7 +36,7 @@ El mensaje codificado sería: **0 0 00 0000 0 000 00 0000 0 00**
 - El input será una cadena de N caracteres ASCII (sin fin de línea).
 - Restricciones: 0 < N < 100
 - Escribir un programa compatible con Python 3.7.
-- La solución deberá ser %100 Python, no se aceptarán solución que combinen otro lenguaje/comando.
+- La solución deberá ser 100% Python, no se aceptarán solución que combinen otro lenguaje/comando.
 - **El programa con menor cantidad de caracteres será el ganador (en caso de empate, el enviado primero)**.
 - Se pueden entregar varias soluciones por persona (solo se considerará la mejor).
 - La tabla de resultados parcial se publicarán todos los días a las 19hs en el siguiente link: https://share.geckoboard.com/dashboards/WK7QXYNUBY5OZNIE.
