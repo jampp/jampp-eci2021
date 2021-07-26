@@ -7,4 +7,5 @@
 ## Code Golf Challenge - Core Team
 
 * Consigna del Challenge: https://forms.gle/xR6JgDgugXvgNcjB7
-* runner.py: Script para testear la solución y obtener su puntaje.
+* Tabla de puntuaciones (se actualiza al finalizar el día): https://share.geckoboard.com/dashboards/WK7QXYNUBY5OZNIE
+* runner.py: Script para testear la solución y obtener su puntaje
