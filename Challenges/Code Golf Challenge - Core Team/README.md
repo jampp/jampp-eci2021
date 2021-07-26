@@ -41,7 +41,7 @@ El mensaje codificado sería: **0 0 00 0000 0 000 00 0000 0 00**
 - Se pueden entregar varias soluciones por persona (solo se considerará la mejor).
 - La tabla de resultados parcial se publicarán todos los días a las 19hs en el siguiente link: https://share.geckoboard.com/dashboards/WK7QXYNUBY5OZNIE.
 - Al finalizar la competencia, publicaremos las mejores 3 soluciones.
-* [test_solution.py](https://github.com/jampp/jampp-eci2021/blob/master/Challenges/Code%20Golf%20Challenge%20-%20Core%20Team/test_solution.py) Script para testear la solución y obtener su puntaje.
+- [test_solution.py](https://github.com/jampp/jampp-eci2021/blob/master/Challenges/Code%20Golf%20Challenge%20-%20Core%20Team/test_solution.py) Script para testear la solución y obtener su puntaje.
 - Subir solo el archivo .py
 - Se aceptarán soluciones hasta el **viernes 30/07/2021**.
 
