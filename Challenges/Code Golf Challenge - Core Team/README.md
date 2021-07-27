@@ -39,7 +39,7 @@ El mensaje codificado sería: **0 0 00 0000 0 000 00 0000 0 00**
 - La solución deberá ser 100% Python, no se aceptarán solución que combinen otro lenguaje/comando.
 - No se puede descargar nada por internet desde el código.
 - **El programa con menor cantidad de caracteres será el ganador (en caso de empate, el enviado primero)**.
-- **El ganador recibirá un cupón por 50 USD para utilizar en Amazon**.
+- **Los dos primeros puestos recibiran un cupón por 50 USD para utilizar en Amazon**.
 - Se pueden entregar varias soluciones por persona (solo se considerará la mejor).
 - La tabla de resultados parcial se publicarán todos los días a las 19hs en el siguiente link: https://share.geckoboard.com/dashboards/WK7QXYNUBY5OZNIE.
 - Al finalizar la competencia, publicaremos las mejores 3 soluciones.
