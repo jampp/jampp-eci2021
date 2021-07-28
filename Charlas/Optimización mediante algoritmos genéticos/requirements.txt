@@ -1,0 +1,7 @@
+copy 
+numpy
+random
+math
+matplotlib
+numpy as np
+time
