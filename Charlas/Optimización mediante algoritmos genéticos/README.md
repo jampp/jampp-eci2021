@@ -1,4 +1,4 @@
-## Genetic Bike:
+# Genetic Bike:
 This repository shows how to optimize the designs of a simplified bike using
 an evolutionary algorithm.
 
@@ -19,7 +19,7 @@ ground = Floor()
 bike_list = [Bike() for _ in range(100)]
 ```
 
-## Let the bikes run through the track
+### Let the bikes run through the track
 ```
 for bike in bike_list:
     run(bike, ground)
@@ -28,7 +28,7 @@ for bike in bike_list:
 bike_list.sort(key=lambda x: x.score, reverse=True)
 ```
 
-## Selection + mutations and crossovers creates the new bike generation
+### Selection + mutations and crossovers create the new bike generation
 ```
 bike_list = next_gen(bike_list,n_crosses=50,n_mutations=50)
 # let's run the new bikes through the path and rank them
@@ -38,7 +38,7 @@ for bike in bike_list:
 bike_list.sort(key=lambda x: x.score, reverse=True)
 ```
 
-## Animation
+### Animation
 ```
 from animation import Render
 import matplotlib.pyplot as plt
