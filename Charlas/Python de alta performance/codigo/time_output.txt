@@ -1,0 +1,54 @@
+etapa 1 - python
+910.38user 0.10system 15:11.22elapsed 99%CPU (0avgtext+0avgdata 97636maxresident)k
+0inputs+0outputs (0major+23170minor)pagefaults 0swaps
+459.40user 0.01system 7:39.65elapsed 99%CPU (0avgtext+0avgdata 53076maxresident)k
+0inputs+0outputs (0major+12054minor)pagefaults 0swaps
+230.14user 0.07system 3:50.87elapsed 99%CPU (0avgtext+0avgdata 31012maxresident)k
+0inputs+0outputs (0major+6472minor)pagefaults 0swaps
+115.40user 0.01system 1:55.43elapsed 99%CPU (0avgtext+0avgdata 19952maxresident)k
+0inputs+0outputs (0major+3692minor)pagefaults 0swaps
+etapa 2 - c
+45.64user 0.51system 0:46.33elapsed 99%CPU (0avgtext+0avgdata 1347460maxresident)k
+0inputs+0outputs (0major+340540minor)pagefaults 0swaps
+22.46user 0.19system 0:22.66elapsed 99%CPU (0avgtext+0avgdata 678904maxresident)k
+0inputs+0outputs (0major+170863minor)pagefaults 0swaps
+11.72user 0.13system 0:11.85elapsed 99%CPU (0avgtext+0avgdata 344028maxresident)k
+0inputs+0outputs (0major+85894minor)pagefaults 0swaps
+5.98user 0.07system 0:06.05elapsed 99%CPU (0avgtext+0avgdata 176748maxresident)k
+0inputs+0outputs (0major+43422minor)pagefaults 0swaps
+etapa 3 - cython SIN tipos
+406.25user 0.04system 6:46.43elapsed 99%CPU (0avgtext+0avgdata 97656maxresident)k
+0inputs+0outputs (0major+23152minor)pagefaults 0swaps
+205.75user 0.01system 3:25.77elapsed 99%CPU (0avgtext+0avgdata 53164maxresident)k
+0inputs+0outputs (0major+12039minor)pagefaults 0swaps
+100.91user 0.00system 1:40.92elapsed 99%CPU (0avgtext+0avgdata 30976maxresident)k
+0inputs+0outputs (0major+6489minor)pagefaults 0swaps
+50.27user 0.00system 0:50.29elapsed 99%CPU (0avgtext+0avgdata 19984maxresident)k
+208inputs+0outputs (0major+3696minor)pagefaults 0swaps
+etapa 4 - cython CON tipos
+215.01user 0.04system 3:35.06elapsed 99%CPU (0avgtext+0avgdata 97720maxresident)k
+0inputs+0outputs (0major+23153minor)pagefaults 0swaps
+111.33user 0.02system 1:51.38elapsed 99%CPU (0avgtext+0avgdata 53128maxresident)k
+0inputs+0outputs (0major+12051minor)pagefaults 0swaps
+54.77user 0.01system 0:54.79elapsed 99%CPU (0avgtext+0avgdata 31084maxresident)k
+0inputs+0outputs (0major+6482minor)pagefaults 0swaps
+29.18user 0.00system 0:29.18elapsed 99%CPU (0avgtext+0avgdata 19972maxresident)k
+0inputs+0outputs (0major+3696minor)pagefaults 0swaps
+etapa 5 - cython MUCHOS tipos
+134.60user 0.05system 2:14.66elapsed 99%CPU (0avgtext+0avgdata 97800maxresident)k
+0inputs+0outputs (0major+23144minor)pagefaults 0swaps
+68.35user 0.01system 1:08.37elapsed 99%CPU (0avgtext+0avgdata 53268maxresident)k
+0inputs+0outputs (0major+12038minor)pagefaults 0swaps
+34.26user 0.00system 0:34.27elapsed 99%CPU (0avgtext+0avgdata 31108maxresident)k
+0inputs+0outputs (0major+6475minor)pagefaults 0swaps
+17.06user 0.00system 0:17.06elapsed 100%CPU (0avgtext+0avgdata 19972maxresident)k
+0inputs+0outputs (0major+3687minor)pagefaults 0swaps
+etapa 5 - cython MUCHOS tipos + SIN bordes
+118.22user 0.04system 1:58.27elapsed 99%CPU (0avgtext+0avgdata 97756maxresident)k
+0inputs+0outputs (0major+23143minor)pagefaults 0swaps
+57.40user 0.02system 0:57.42elapsed 99%CPU (0avgtext+0avgdata 53176maxresident)k
+0inputs+0outputs (0major+12030minor)pagefaults 0swaps
+29.82user 0.01system 0:29.83elapsed 99%CPU (0avgtext+0avgdata 31128maxresident)k
+0inputs+0outputs (0major+6469minor)pagefaults 0swaps
+14.82user 0.00system 0:14.82elapsed 100%CPU (0avgtext+0avgdata 20056maxresident)k
+0inputs+0outputs (0major+3690minor)pagefaults 0swaps
